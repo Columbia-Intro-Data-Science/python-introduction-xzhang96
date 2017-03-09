@@ -4,7 +4,7 @@
 
 #### Team members: Ben Lai, Cindy Zhang
 
-#### Role: Computing Kernel: Ben Lai, Website design: Cindy Zhang
+#### Role: Computing kernel: Ben Lai, Website design: Cindy Zhang
 
 Tools
 --------
