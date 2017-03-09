@@ -8,7 +8,7 @@
 
 Tools
 --------
-Python, JupyterNotebook, Flask
+Python, Flask
 
 Data Source
 --------
