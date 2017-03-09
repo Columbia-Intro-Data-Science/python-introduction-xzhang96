@@ -19,8 +19,10 @@ How do the movie theaters decide which movies to show given that hundreds of mov
 Movie theater companies and the audience who already has some information about the upcoming movies, such as the number of Facebook likes of the cast, the genre of the movies, the budget, etc.
 
 ### __Algorithms__
+
 ## Regression Model
 Regression models are used to train the data we obtain from IMDb, and given the data provided by the users, we can get a prediction of the box office using those models.
+
 ## Recommendation Engine
 A list of recommendation movies can also be shown to the users based on the input data by looking for movies with similar features.
 
