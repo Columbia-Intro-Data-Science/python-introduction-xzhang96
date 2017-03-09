@@ -31,9 +31,11 @@ Regression models are used to train the data we obtain from IMDb, and given the 
 #### Recommendation Engine
 A list of recommendation movies can also be shown to the users based on the input data by looking for movies with similar features.
 
-### __Web Application__
+Web Application
+--------
 Our web application allows the users to input various features of the new movies, and after the algorithms get these variables, the box office will be given to the user.
 
-### __Reference__
+Reference
+--------
 The movie data is extracted from IMDb and the complete dataset is obtained from Kaggle: 
 https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
