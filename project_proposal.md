@@ -6,7 +6,7 @@
 
 #### Role: Computing Kernel: Ben Lai, Website design: Cindy Zhang
 
-### __Tools__
+### Tools
 Python, JupyterNotebook, Flask
 
 ### __Data Source__
