@@ -4,8 +4,6 @@
 
 #### Team members: Ben Lai, Cindy Zhang
 
-#### Role: Computing kernel: Ben Lai, Website design: Cindy Zhang
-
 Tools
 --------
 Python, Flask
@@ -34,7 +32,7 @@ Feature learning algorithms like autoencoders are used to transform the pictures
 
 Web Application
 --------
-Our web application allows the users to select pictures from our database, the predicted feature will be shown and compared to the actual feature. For now, the web app will be entertainment-oriented since the back end development may be too complicated.
+Our web application allows the users to select pictures from our database, the predicted feature will be shown and compared to the actual feature. For now, the web app will be entertainment-oriented since we want to focus on the learning algorithm that can be used by machines rather than an actual web app that is used by human.
 
 Reference
 --------
