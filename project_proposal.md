@@ -10,7 +10,7 @@ Python, Flask
 
 Data Source
 --------
-https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+Cohn-Kanade (CK and CK+) Database from Carneige Mellon University
 
 Project Description
 --------
@@ -36,11 +36,11 @@ Our web application allows the users to select pictures from our database, the p
 
 Reference
 --------
-This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. We obtain the dataset on Kaggle: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-
-D. Datcu and L. J. M. Rothkrantz, "Facial Expression Recognition with Relevance Vector Machines," 2005 IEEE International Conference on Multimedia and Expo, Amsterdam, 2005, pp. 193-196. doi: 10.1109/ICME.2005.1521393
+Kanade, T., Cohn, J. F., & Tian, Y. (2000). Comprehensive database for facial expression analysis. Proceedings of the Fourth IEEE International Conference on Automatic Face and Gesture Recognition (FG'00), Grenoble, France, 46-53.
 
 Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). The Extended Cohn-Kanade Dataset (CK+): A complete expression dataset for action unit and emotion-specified expression. Proceedings of the Third International Workshop on CVPR for Human Communicative Behavior Analysis (CVPR4HB 2010), San Francisco, USA, 94-101.
+
+D. Datcu and L. J. M. Rothkrantz, "Facial Expression Recognition with Relevance Vector Machines," 2005 IEEE International Conference on Multimedia and Expo, Amsterdam, 2005, pp. 193-196. doi: 10.1109/ICME.2005.1521393
 
 Philipp Michel and Rana el Kaliouby. Facial Expression Recognition Using Support Vector Machines. In Proceedings of the International Conference on HumanComputer Interaction (HCII): Human-Computer Interaction, Theory and Practice, volume 2, pages 93–94. Lawrence Erlbaum Associates, 2003.
 
